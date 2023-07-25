@@ -4,7 +4,8 @@
 
 ## Stack:
 1. Nest: version 9.4.2 (npx nest -v) 
-2. 
+2. Mongoose "^7.3.4",
+3. Mongodb: "^5.7.0",
 
 ## Description
 
