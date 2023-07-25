@@ -1,58 +1,29 @@
 ## My Progect: "MyAppMedicationReminder"
-
+Studying the technology stack by video: https://youtu.be/abdgy72csaA 
+Notes: "Проект fullstack MyAppMedicationReminder#1-Nestjs, Mongoose, MongoDB."
 
 
 ## Stack:
 1. Nest: version 9.4.2 (npx nest -v) 
 2. Mongoose "^7.3.4",
 3. Mongodb: "^5.7.0",
+4. Typescript: "^4.7.4"
 
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+## Tools
+1. Postman
+2. Chrome
 
 ## Installation
+npm install --global yarn
+yarn global add @nestjs/cli
+npx @nestjs/cli new MyAppMedicationReminder
 
-```bash
-$ yarn install
-```
-
-## Running the app
-
-```bash
-# development
-$ yarn run start
-
-# watch mode
-$ yarn run start:dev (or npx nest start --watch)
-
-# production mode
-$ yarn run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ yarn run test
-
-# e2e tests
-$ yarn run test:e2e
-
-# test coverage
-$ yarn run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+## Running the app (watch mode)
+npm run start:dev (or "npx nest start --watch")
 
 ## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [Rishat Weboson](https://kamilmysliwiec.com)
+- Website - [https://mysite.com](...)
 
 ## License
-
 Nest is [MIT licensed](LICENSE).
