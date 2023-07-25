@@ -22,7 +22,7 @@
 - npm run start:dev (or "npx nest start --watch")
 
 ## Stay in touch
-- Author - [Rishat Weboson](https://kamilmysliwiec.com)
+- Author - [Rishat Weboson](...)
 - Website - [https://mysite.com](...)
 
 ## License
