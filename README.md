@@ -1,6 +1,6 @@
 ## My Progect: "MyAppMedicationReminder"
-Studying the technology stack by video: https://youtu.be/abdgy72csaA 
-Notes: "Проект fullstack MyAppMedicationReminder#1-Nestjs, Mongoose, MongoDB."
+- Studying the technology stack by video: https://youtu.be/abdgy72csaA 
+- Notes: "Проект fullstack MyAppMedicationReminder#1-Nestjs, Mongoose, MongoDB."
 
 
 ## Stack:
@@ -14,12 +14,12 @@ Notes: "Проект fullstack MyAppMedicationReminder#1-Nestjs, Mongoose, Mongo
 2. Chrome
 
 ## Installation
-npm install --global yarn
-yarn global add @nestjs/cli
-npx @nestjs/cli new MyAppMedicationReminder
+1. npm install --global yarn
+2. yarn global add @nestjs/cli
+3. npx @nestjs/cli new MyAppMedicationReminder
 
 ## Running the app (watch mode)
-npm run start:dev (or "npx nest start --watch")
+- npm run start:dev (or "npx nest start --watch")
 
 ## Stay in touch
 - Author - [Rishat Weboson](https://kamilmysliwiec.com)
